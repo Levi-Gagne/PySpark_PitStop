@@ -1,0 +1,1959 @@
+"DSC_CTY"|"COD_DAY"|"SHT_COD_MNT"|"DSC_ENG_GRP_RNV"|"DSC_OPR_REG"|QTY_LIC_DAY
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Interior paulista b"|441
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Santa catarina"|121
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Interior paulista b"|465
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|52
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|150
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Espirito santo"|27
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Belem"|38
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Interior paulista a"|44
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Fortaleza"|8
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Interior mg"|9
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|49
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Interior paulista b"|12
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Porto alegre"|632
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|148
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|11
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Sao paulo"|1692
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Centro oeste"|686
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Fortaleza"|167
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|264
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Recife"|190
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|77
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Interior paulista a"|695
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|153
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Recife"|720
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Porto alegre"|339
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Centro oeste"|411
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Sao paulo"|1226
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Parana"|203
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Recife"|552
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|131
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Fortaleza"|251
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Belo horizonte"|1455
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Parana"|424
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|79
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Interior mg"|428
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Recife"|564
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Recife"|787
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Parana"|324
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Recife"|624
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|152
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Rio de janeiro"|7
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Santa catarina"|443
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Belem"|173
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Parana"|424
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|186
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Porto alegre"|298
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|109
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Parana"|148
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|124
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|171
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|94
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Centro oeste"|59
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Parana"|83
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|302
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|113
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Brasilia"|177
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Recife"|9
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Interior paulista a"|34
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Parana"|136
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Belem"|25
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|121
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Brasilia"|236
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Belo horizonte"|872
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Interior paulista b"|344
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Sao paulo"|23
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Espirito santo"|259
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Fortaleza"|189
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|137
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|118
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Centro oeste"|122
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Santa catarina"|4
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Belem"|158
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Santa catarina"|293
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Interior paulista b"|23
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Interior paulista b"|19
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|240
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|41
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Belo horizonte"|1662
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Rio de janeiro"|23
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Belem"|30
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|23
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Interior paulista a"|64
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Fortaleza"|261
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Fortaleza"|11
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Centro oeste"|39
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Porto alegre"|6
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|66
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Porto alegre"|44
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Santa catarina"|26
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Interior mg"|25
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Parana"|131
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|61
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Interior paulista a"|44
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Interior paulista a"|33
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Interior paulista b"|23
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|54
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Fortaleza"|9
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Espirito santo"|120
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Brasilia"|26
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Belem"|27
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|65
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Parana"|68
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|66
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Interior paulista a"|32
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Centro oeste"|33
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Sao paulo"|75
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Sao paulo"|22
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Recife"|35
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|9
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-11"|"11"|"TRUCKS"|"Sao paulo"|2
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Porto alegre"|57
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Interior paulista a"|30
+"BRAZIL"|"2023-11-05"|"11"|"PASSENGER"|"Parana"|3
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Espirito santo"|24
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Parana"|16
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Belo horizonte"|17
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Rio de janeiro"|15
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Belem"|13
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|63
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Parana"|30
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Brasilia"|10
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|5
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Belem"|3
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Sao paulo"|30
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Espirito santo"|7
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Interior mg"|9
+"BRAZIL"|"2023-11-05"|"11"|"TRUCKS"|"Centro oeste"|2
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Belem"|3
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Porto alegre"|36
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Fortaleza"|9
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Centro oeste"|38
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|40
+"BRAZIL"|"2023-11-02"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|3
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Rio de janeiro"|23
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Recife"|7
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Belo horizonte"|11
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Santa catarina"|3
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Belo horizonte"|14
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Belo horizonte"|10
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|2
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Interior paulista b"|1
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|10
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Sao paulo"|2
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Interior mg"|4
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Belem"|9
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Centro oeste"|1
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Santa catarina"|2
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Parana"|3
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-11-26"|"11"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Porto alegre"|6
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Fortaleza"|2
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Recife"|10
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Interior paulista a"|8
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Recife"|2
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Porto alegre"|8
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Belem"|44
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Interior paulista b"|26
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Parana"|8
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|7
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Recife"|3
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Recife"|230
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Belem"|157
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Interior paulista b"|415
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Centro oeste"|485
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|61
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|55
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Recife"|5
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Sao paulo"|7
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Interior mg"|175
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|86
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Belo horizonte"|1093
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Belo horizonte"|15
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Fortaleza"|8
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Interior paulista a"|520
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Centro oeste"|513
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Recife"|709
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|743
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|157
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Parana"|4
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|43
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|73
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Porto alegre"|36
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Sao paulo"|51
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Interior mg"|152
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|60
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Interior paulista b"|35
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Espirito santo"|86
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Brasilia"|4
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Belo horizonte"|6
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Recife"|23
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Interior mg"|37
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Fortaleza"|13
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Rio de janeiro"|18
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Brasilia"|12
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Interior paulista a"|10
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Interior mg"|8
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Interior paulista a"|28
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Brasilia"|1
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Interior paulista a"|7
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Rio de janeiro"|10
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Sao paulo"|6
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Interior paulista b"|9
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Interior paulista b"|1
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Interior paulista a"|1
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Rio de janeiro"|358
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Recife"|215
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Porto alegre"|354
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|60
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Belo horizonte"|963
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Interior mg"|172
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|96
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|120
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Porto alegre"|43
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Fortaleza"|21
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Recife"|600
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Centro oeste"|486
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|98
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Centro oeste"|34
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|35
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|123
+"BRAZIL"|"2023-12-03"|"12"|"PASSENGER"|"Belem"|1
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Santa catarina"|2
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Belem"|6
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Interior paulista b"|7
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Espirito santo"|3
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Brasilia"|1
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Belo horizonte"|7
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Santa catarina"|21
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Interior paulista a"|137
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Porto alegre"|1
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|2
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|2
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Santa catarina"|5
+"BRAZIL"|"2023-11-03"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Sao paulo"|16
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Parana"|1
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Recife"|247
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Sao paulo"|2988
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Belem"|409
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|115
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|64
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Porto alegre"|5
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Rio de janeiro"|28
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Sao paulo"|55
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|151
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Interior paulista b"|25
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Espirito santo"|3
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Belem"|597
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Interior mg"|244
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Porto alegre"|360
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Centro oeste"|420
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Santa catarina"|344
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|136
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Sao paulo"|982
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Interior paulista a"|388
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Interior paulista a"|1058
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Brasilia"|194
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|150
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Interior paulista a"|454
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Sao paulo"|962
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Recife"|558
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|91
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|103
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|188
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Sao paulo"|1887
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Porto alegre"|380
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Centro oeste"|450
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|53
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Sao paulo"|46
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Interior mg"|32
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Porto alegre"|376
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Interior paulista a"|391
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Recife"|268
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|161
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Porto alegre"|279
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|200
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Brasilia"|181
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|135
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Centro oeste"|375
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Centro oeste"|361
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|151
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|113
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Parana"|154
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Recife"|26
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Porto alegre"|285
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Rio de janeiro"|359
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Santa catarina"|42
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|168
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Belem"|383
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|82
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|68
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Espirito santo"|91
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|42
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Parana"|408
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Sao paulo"|1361
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|257
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Centro oeste"|7
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Fortaleza"|435
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Porto alegre"|496
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Parana"|345
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Recife"|484
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Belo horizonte"|1610
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Santa catarina"|465
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Santa catarina"|281
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Fortaleza"|129
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Belem"|150
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|73
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Interior paulista a"|383
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Belem"|193
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Belem"|25
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Sao paulo"|1141
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Brasilia"|374
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|145
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Belo horizonte"|2480
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|157
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Recife"|36
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Parana"|147
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Centro oeste"|70
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Interior mg"|152
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Centro oeste"|245
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Recife"|214
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Rio de janeiro"|447
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Parana"|385
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Parana"|131
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Recife"|4
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|575
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Belo horizonte"|991
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Brasilia"|238
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Interior paulista a"|54
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|131
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|112
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Recife"|10
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|30
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Santa catarina"|44
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Rio de janeiro"|22
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Interior paulista b"|28
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|370
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|30
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|141
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Belem"|40
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Fortaleza"|36
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Santa catarina"|28
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|145
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Rio de janeiro"|4
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|30
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|48
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|73
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Sao paulo"|44
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|111
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Interior mg"|22
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Parana"|58
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Interior mg"|7
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Interior paulista b"|4
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Interior paulista a"|31
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Parana"|36
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Sao paulo"|38
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Sao paulo"|71
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Recife"|46
+"BRAZIL"|"2023-11-05"|"11"|"PASSENGER"|"Centro oeste"|17
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Fortaleza"|146
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|33
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Rio de janeiro"|24
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Interior mg"|19
+"BRAZIL"|"2023-11-05"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|9
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Recife"|11
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Belo horizonte"|29
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Parana"|58
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Belo horizonte"|11
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Belem"|24
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|53
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Interior paulista a"|3
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|17
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|8
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Belem"|7
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Interior paulista b"|10
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Interior paulista a"|35
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Santa catarina"|38
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Centro oeste"|30
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Rio de janeiro"|38
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Interior mg"|9
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Brasilia"|3
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Centro oeste"|50
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Rio de janeiro"|26
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Sao paulo"|29
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Interior paulista a"|6
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Centro oeste"|38
+"BRAZIL"|"2023-11-18"|"11"|"BUS"|"Interior paulista b"|1
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Parana"|10
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Interior paulista a"|42
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Rio de janeiro"|24
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Interior mg"|1
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Belem"|14
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Recife"|2
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Espirito santo"|5
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Parana"|8
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Sao paulo"|7
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Parana"|5
+"BRAZIL"|"2023-11-18"|"11"|"TRUCKS"|"Sao paulo"|1
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Parana"|5
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Interior mg"|1
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Recife"|1
+"BRAZIL"|"2023-11-26"|"11"|"TRUCKS"|"Centro oeste"|3
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Belo horizonte"|4
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|5
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Santa catarina"|3
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Centro oeste"|4
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Rio de janeiro"|22
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|5
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-11-11"|"11"|"TRUCKS"|"Belem"|1
+"BRAZIL"|"2023-11-15"|"11"|"TRUCKS"|"Porto alegre"|1
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Porto alegre"|4
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Sao paulo"|3
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Santa catarina"|2
+"BRAZIL"|"2023-11-02"|"11"|"BUS"|"Centro oeste"|1
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Sao paulo"|511
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|1
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Interior paulista a"|611
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Sao paulo"|80
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Santa catarina"|449
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|254
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Santa catarina"|53
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Fortaleza"|7
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Interior mg"|6
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Interior paulista a"|376
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|195
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Parana"|50
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Fortaleza"|183
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|82
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Belem"|67
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Porto alegre"|344
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Recife"|226
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Parana"|299
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Rio de janeiro"|336
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|132
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|95
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Interior mg"|24
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|47
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Belem"|145
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Sao paulo"|1579
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|191
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Sao paulo"|76
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Parana"|721
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Interior paulista a"|28
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Recife"|745
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Porto alegre"|372
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Parana"|477
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|195
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Recife"|41
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|341
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Rio de janeiro"|34
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Belo horizonte"|15
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Sao paulo"|5
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Interior mg"|16
+"BRAZIL"|"2023-12-10"|"12"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-12-10"|"12"|"PASSENGER"|"Parana"|1
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Centro oeste"|43
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Fortaleza"|13
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Rio de janeiro"|11
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Recife"|5
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Belo horizonte"|3
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Belem"|1
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Interior paulista b"|263
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Sao paulo"|2053
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Recife"|193
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Brasilia"|313
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|107
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|79
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|187
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Recife"|3
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Belem"|8
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Parana"|4
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Belo horizonte"|20
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Espirito santo"|13
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|13
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Belem"|57
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Centro oeste"|19
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|15
+"BRAZIL"|"2023-12-02"|"12"|"TRUCKS"|"Interior paulista a"|4
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Recife"|10
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|1
+"BRAZIL"|"2023-12-02"|"12"|"BUS"|"Sao paulo"|1
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Interior paulista b"|2
+"BRAZIL"|"2023-11-15"|"11"|"TRUCKS"|"Parana"|1
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|1
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Interior mg"|265
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Parana"|39
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Centro oeste"|346
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Porto alegre"|43
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Santa catarina"|397
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Parana"|401
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|212
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Recife"|272
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Interior mg"|24
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|314
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Brasilia"|3
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Interior mg"|20
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Parana"|3
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Belem"|1
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Interior paulista b"|139
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Rio de janeiro"|89
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|223
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Centro oeste"|342
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Interior mg"|205
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Sao paulo"|1177
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Recife"|491
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Interior paulista a"|406
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Porto alegre"|340
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Recife"|836
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|50
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Parana"|541
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Sao paulo"|285
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Sao paulo"|1063
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Fortaleza"|289
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Interior paulista b"|701
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|74
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|76
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Belem"|376
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Porto alegre"|329
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Belo horizonte"|2986
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Porto alegre"|406
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Porto alegre"|383
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|184
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Recife"|696
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|143
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Belo horizonte"|1702
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|185
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Recife"|343
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|126
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Rio de janeiro"|509
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|58
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Interior paulista b"|278
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|173
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Recife"|241
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Interior paulista a"|41
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Interior paulista a"|384
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Espirito santo"|204
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Brasilia"|211
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|147
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|124
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Brasilia"|276
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Santa catarina"|800
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|159
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|118
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|131
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Interior paulista b"|17
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Interior paulista a"|304
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Belo horizonte"|2942
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Belo horizonte"|19
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Parana"|457
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|225
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Sao paulo"|614
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|158
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Belo horizonte"|1729
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|49
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|23
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Sao paulo"|680
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Belem"|171
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|68
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Porto alegre"|421
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Porto alegre"|71
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Interior mg"|250
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|104
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Porto alegre"|33
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|59
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|215
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Interior paulista b"|267
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Recife"|39
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|109
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Rio de janeiro"|336
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|173
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Parana"|176
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|160
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Parana"|138
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|70
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|94
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Fortaleza"|240
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|105
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|130
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Belo horizonte"|5
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|79
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Interior paulista a"|15
+"BRAZIL"|"2023-11-15"|"11"|"TRUCKS"|"Interior mg"|1
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|65
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Santa catarina"|40
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|78
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|60
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|157
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Sao paulo"|45
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Porto alegre"|85
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Espirito santo"|125
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|140
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|81
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Recife"|231
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Belem"|248
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|77
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Porto alegre"|31
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Fortaleza"|18
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Santa catarina"|46
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Rio de janeiro"|29
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Espirito santo"|18
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|26
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Parana"|35
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Interior paulista b"|45
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Belem"|41
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Belem"|14
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|69
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Recife"|26
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Belem"|26
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Belem"|25
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Brasilia"|24
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|10
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Interior mg"|4
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Recife"|38
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Fortaleza"|12
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Sao paulo"|37
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Belem"|14
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Belo horizonte"|26
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Sao paulo"|34
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Centro oeste"|6
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Belo horizonte"|2
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Centro oeste"|11
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|22
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Espirito santo"|8
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Belem"|8
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Brasilia"|3
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|10
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Rio de janeiro"|42
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Porto alegre"|6
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|4
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Brasilia"|10
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Rio de janeiro"|22
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|1
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Interior mg"|13
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|5
+"BRAZIL"|"2023-11-26"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|2
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Parana"|20
+"BRAZIL"|"2023-11-26"|"11"|"PASSENGER"|"Belem"|1
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Brasilia"|8
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Fortaleza"|9
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Porto alegre"|1
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Interior paulista b"|4
+"BRAZIL"|"2023-11-26"|"11"|"PASSENGER"|"Parana"|1
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Interior paulista a"|1
+"BRAZIL"|"2023-11-18"|"11"|"TRUCKS"|"Porto alegre"|3
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Belem"|2
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Recife"|3
+"BRAZIL"|"2023-11-02"|"11"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Interior mg"|3
+"BRAZIL"|"2023-11-05"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|3
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Belem"|2
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Sao paulo"|11
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Espirito santo"|109
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Fortaleza"|233
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Sao paulo"|4019
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Sao paulo"|6
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|96
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Recife"|718
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Interior paulista b"|265
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Fortaleza"|218
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|107
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|173
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Porto alegre"|33
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|115
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Rio de janeiro"|195
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Belem"|293
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|368
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Interior paulista b"|23
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Fortaleza"|10
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Interior mg"|24
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Centro oeste"|53
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Rio de janeiro"|10
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|37
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|73
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Interior paulista b"|26
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Belem"|12
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Rio de janeiro"|19
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Interior paulista a"|6
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Rio de janeiro"|11
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Santa catarina"|3
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Rio de janeiro"|12
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Porto alegre"|8
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Recife"|2
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|137
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Porto alegre"|72
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Centro oeste"|34
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|372
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Interior mg"|25
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Centro oeste"|422
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Belem"|158
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Rio de janeiro"|302
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Parana"|445
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|124
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Rio de janeiro"|376
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Parana"|433
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Parana"|119
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Interior paulista a"|371
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Belo horizonte"|42
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Brasilia"|421
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Interior paulista b"|293
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|105
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Sao paulo"|4
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|44
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Recife"|33
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Sao paulo"|22
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Recife"|7
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Brasilia"|5
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Brasilia"|5
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Belo horizonte"|18
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Interior paulista b"|1
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Interior paulista a"|2
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Belem"|6
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Parana"|4
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|9
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Espirito santo"|2
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Recife"|1
+"BRAZIL"|"2023-11-12"|"11"|"TRUCKS"|"Parana"|4
+"BRAZIL"|"2023-11-18"|"11"|"TRUCKS"|"Interior paulista b"|4
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Centro oeste"|1
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Parana"|2
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Porto alegre"|438
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|169
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Belo horizonte"|22
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Belem"|307
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|135
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Interior paulista a"|29
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Belem"|213
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|85
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Centro oeste"|531
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Belem"|252
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Parana"|115
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Interior paulista b"|26
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Parana"|57
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Santa catarina"|48
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Rio de janeiro"|22
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Sao paulo"|34
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Belo horizonte"|68
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Centro oeste"|4
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Centro oeste"|49
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Espirito santo"|32
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Rio de janeiro"|9
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Recife"|1
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Sao paulo"|1303
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Interior paulista a"|386
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Porto alegre"|577
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Centro oeste"|352
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Recife"|663
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Parana"|402
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Porto alegre"|414
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Brasilia"|169
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|63
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Belem"|282
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|55
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Fortaleza"|305
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Belem"|171
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Santa catarina"|26
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Fortaleza"|244
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Parana"|116
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Fortaleza"|249
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|142
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|50
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Recife"|771
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Fortaleza"|265
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Espirito santo"|10
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Belem"|389
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Santa catarina"|367
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Espirito santo"|119
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|119
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Interior paulista a"|261
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Interior mg"|176
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Centro oeste"|346
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Centro oeste"|331
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|267
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Interior paulista b"|488
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Recife"|253
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|256
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Sao paulo"|13
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Brasilia"|208
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|119
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Interior mg"|292
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|105
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Interior mg"|192
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Porto alegre"|49
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Rio de janeiro"|560
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Centro oeste"|55
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Parana"|127
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Belo horizonte"|1822
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Interior mg"|182
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Porto alegre"|24
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|315
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Rio de janeiro"|346
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Fortaleza"|177
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Espirito santo"|137
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Interior paulista b"|306
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Belem"|306
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|57
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Centro oeste"|35
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Centro oeste"|382
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Santa catarina"|337
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|114
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Belem"|393
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|64
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|248
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Parana"|130
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Belo horizonte"|445
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Rio de janeiro"|538
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Rio de janeiro"|24
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Recife"|210
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Santa catarina"|22
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Interior mg"|188
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Recife"|54
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|76
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Rio de janeiro"|367
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Parana"|124
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Recife"|210
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Belem"|400
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|38
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Interior mg"|238
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|60
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Belo horizonte"|1739
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|235
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Parana"|70
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|127
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Parana"|53
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|55
+"BRAZIL"|"2023-11-12"|"11"|"PASSENGER"|"Centro oeste"|15
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Fortaleza"|14
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Belo horizonte"|27
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Belem"|182
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Fortaleza"|21
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|111
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Parana"|446
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Centro oeste"|67
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Recife"|3
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|105
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Belo horizonte"|15
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Santa catarina"|34
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Porto alegre"|48
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Santa catarina"|21
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Espirito santo"|22
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Parana"|35
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Sao paulo"|3
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Belo horizonte"|24
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|120
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|46
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|12
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Recife"|39
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Parana"|13
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Brasilia"|5
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Espirito santo"|7
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Porto alegre"|34
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|71
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Interior mg"|31
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Porto alegre"|14
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Belo horizonte"|8
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Rio de janeiro"|15
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Fortaleza"|7
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Sao paulo"|21
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Rio de janeiro"|18
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|42
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|53
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Belo horizonte"|19
+"BRAZIL"|"2023-11-03"|"11"|"BUS"|"Recife"|5
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Sao paulo"|7
+"BRAZIL"|"2023-11-26"|"11"|"PASSENGER"|"Centro oeste"|5
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Interior mg"|34
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Interior paulista a"|2
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Interior mg"|17
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Interior mg"|6
+"BRAZIL"|"2023-11-03"|"11"|"BUS"|"Centro oeste"|1
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|11
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Rio de janeiro"|11
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Belo horizonte"|15
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Interior paulista b"|4
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Porto alegre"|14
+"BRAZIL"|"2023-11-11"|"11"|"TRUCKS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Belem"|4
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Rio de janeiro"|9
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Interior paulista b"|6
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Centro oeste"|12
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Rio de janeiro"|2
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Recife"|3
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Parana"|3
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Interior paulista a"|13
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Belo horizonte"|19
+"BRAZIL"|"2023-11-11"|"11"|"TRUCKS"|"Interior paulista a"|1
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Interior mg"|4
+"BRAZIL"|"2023-11-03"|"11"|"BUS"|"Interior paulista a"|2
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Porto alegre"|2
+"BRAZIL"|"2023-11-25"|"11"|"TRUCKS"|"Interior paulista b"|6
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Centro oeste"|5
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Belem"|2
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Parana"|5
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Rio de janeiro"|4
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Interior paulista b"|3
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Belem"|1
+"BRAZIL"|"2023-12-09"|"12"|"BUS"|"Interior paulista a"|1
+"BRAZIL"|"2023-12-09"|"12"|"TRUCKS"|"Santa catarina"|10
+"BRAZIL"|"2023-12-09"|"12"|"BUS"|"Sao paulo"|1
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|228
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Rio de janeiro"|369
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Interior mg"|241
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Parana"|384
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Belo horizonte"|3871
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|84
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Belem"|22
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Parana"|6
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Porto alegre"|2
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Brasilia"|2
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Rio de janeiro"|330
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Santa catarina"|384
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Recife"|184
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|180
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Interior mg"|375
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Porto alegre"|25
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Espirito santo"|136
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Recife"|304
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Belem"|37
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Interior mg"|53
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Porto alegre"|145
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Interior mg"|8
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Interior paulista b"|451
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|115
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Parana"|184
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|448
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Parana"|52
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Centro oeste"|8
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Interior paulista a"|24
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|14
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|42
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Belo horizonte"|5
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Santa catarina"|41
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Interior paulista a"|36
+"BRAZIL"|"2023-12-10"|"12"|"PASSENGER"|"Interior paulista a"|1
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Parana"|4
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Fortaleza"|4
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Parana"|4
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Parana"|391
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Fortaleza"|154
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Belo horizonte"|679
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Belem"|288
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Interior paulista a"|463
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Espirito santo"|145
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|147
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Fortaleza"|178
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Espirito santo"|9
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Belo horizonte"|1736
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|227
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Santa catarina"|49
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Sao paulo"|59
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Interior mg"|25
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Sao paulo"|46
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Interior mg"|3
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Belem"|23
+"BRAZIL"|"2023-12-03"|"12"|"LIGHT COMMERCIAL"|"Belem"|1
+"BRAZIL"|"2023-12-03"|"12"|"PASSENGER"|"Interior paulista a"|2
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Fortaleza"|13
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Santa catarina"|9
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-12-02"|"12"|"TRUCKS"|"Recife"|2
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|1
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Parana"|4
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Interior mg"|2
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Belem"|4
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|1
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Recife"|1
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|104
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Porto alegre"|26
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Recife"|1056
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Interior mg"|354
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Brasilia"|85
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Interior paulista b"|444
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Recife"|55
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Centro oeste"|52
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|150
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Espirito santo"|147
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Fortaleza"|19
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Sao paulo"|10
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Belo horizonte"|16
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Belem"|257
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Fortaleza"|440
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Fortaleza"|100
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Parana"|1385
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Interior paulista a"|32
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Interior paulista b"|291
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Recife"|188
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Santa catarina"|364
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Interior paulista b"|319
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Interior paulista b"|246
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Rio de janeiro"|279
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Interior paulista b"|535
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|157
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Sao paulo"|1351
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|181
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Sao paulo"|2650
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Parana"|369
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Recife"|1339
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Interior paulista a"|357
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|55
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Espirito santo"|163
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Rio de janeiro"|359
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|169
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Fortaleza"|259
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Santa catarina"|311
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Interior paulista a"|455
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Belem"|170
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Santa catarina"|261
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Rio de janeiro"|386
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|146
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Porto alegre"|442
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Interior paulista b"|129
+"BRAZIL"|"2023-11-11"|"11"|"TRUCKS"|"Interior paulista b"|6
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|176
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Belem"|103
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|123
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Recife"|765
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|82
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Recife"|635
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Santa catarina"|363
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Santa catarina"|326
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Recife"|53
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|141
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Interior paulista b"|21
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Rio de janeiro"|7
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|117
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Interior paulista b"|452
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Espirito santo"|136
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Fortaleza"|207
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Parana"|132
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Porto alegre"|31
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Sao paulo"|28
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Espirito santo"|184
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|104
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Rio de janeiro"|386
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Recife"|241
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Interior mg"|216
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|52
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Parana"|172
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Brasilia"|228
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Espirito santo"|37
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Belem"|189
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Sao paulo"|36
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Fortaleza"|11
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Parana"|139
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|15
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Belem"|35
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Espirito santo"|132
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Espirito santo"|232
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Recife"|11
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Parana"|400
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Belo horizonte"|1815
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Fortaleza"|14
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|30
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|182
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Centro oeste"|66
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Interior paulista a"|48
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Espirito santo"|77
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Belem"|302
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|268
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|45
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|53
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Fortaleza"|272
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|150
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|132
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|210
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Espirito santo"|3
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|88
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|66
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Brasilia"|188
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Parana"|55
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|99
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|377
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Porto alegre"|22
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Belem"|50
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Sao paulo"|52
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Interior mg"|26
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Brasilia"|146
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Sao paulo"|47
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Espirito santo"|8
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Brasilia"|175
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|480
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|122
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Centro oeste"|42
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Belem"|45
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Sao paulo"|32
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Parana"|44
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Fortaleza"|10
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|74
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Interior mg"|24
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Interior mg"|21
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Interior paulista a"|82
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Interior paulista a"|19
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Sao paulo"|49
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Fortaleza"|17
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Recife"|28
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Belo horizonte"|14
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|5
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Interior paulista a"|2
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Fortaleza"|16
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Rio de janeiro"|18
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Brasilia"|8
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Recife"|4
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Brasilia"|6
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Interior mg"|2
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Parana"|50
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Fortaleza"|3
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Recife"|9
+"BRAZIL"|"2023-11-11"|"11"|"TRUCKS"|"Centro oeste"|8
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Parana"|21
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Brasilia"|7
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Espirito santo"|11
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Rio de janeiro"|14
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Belo horizonte"|25
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Interior paulista b"|18
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Belem"|18
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Interior paulista a"|6
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Belem"|4
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Centro oeste"|9
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Belem"|5
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Belem"|3
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|4
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Recife"|3
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Sao paulo"|10
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Porto alegre"|1
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Belo horizonte"|11
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Parana"|7
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Interior paulista b"|8
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|5
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Interior paulista a"|4
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Parana"|2
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Interior paulista a"|3
+"BRAZIL"|"2023-11-25"|"11"|"TRUCKS"|"Parana"|1
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Parana"|2
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Porto alegre"|3
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Rio de janeiro"|2
+"BRAZIL"|"2023-11-04"|"11"|"TRUCKS"|"Santa catarina"|2
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Santa catarina"|3
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Brasilia"|1
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Belo horizonte"|1
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Sao paulo"|9
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|20
+"BRAZIL"|"2023-12-09"|"12"|"TRUCKS"|"Interior paulista a"|6
+"BRAZIL"|"2023-12-09"|"12"|"TRUCKS"|"Sao paulo"|8
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|1
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Brasilia"|264
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Recife"|831
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Parana"|80
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|93
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Centro oeste"|38
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Belem"|2
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Centro oeste"|63
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Sao paulo"|680
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Centro oeste"|554
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Recife"|65
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Santa catarina"|33
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Sao paulo"|76
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Interior paulista b"|415
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|98
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Santa catarina"|58
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Belem"|40
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Belo horizonte"|886
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Sao paulo"|1762
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Interior paulista b"|44
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Sao paulo"|74
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Santa catarina"|386
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Belem"|144
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|57
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|44
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Espirito santo"|3
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Parana"|169
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Belo horizonte"|6
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Sao paulo"|1
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Belo horizonte"|2
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Porto alegre"|7
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Interior mg"|2
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Interior paulista b"|1
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Interior paulista b"|22
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Interior paulista a"|359
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|93
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Santa catarina"|317
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Interior mg"|169
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|112
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Belem"|157
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Recife"|38
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Interior paulista b"|361
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Parana"|111
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Santa catarina"|415
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|312
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|112
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|68
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Brasilia"|3
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Santa catarina"|38
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|85
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Interior mg"|203
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Espirito santo"|137
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Interior mg"|19
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Santa catarina"|61
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Espirito santo"|120
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Porto alegre"|8
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Interior paulista a"|10
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Sao paulo"|1
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Interior paulista a"|7
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Belo horizonte"|3
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Sao paulo"|554
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Interior paulista b"|82
+"BRAZIL"|"2023-12-02"|"12"|"TRUCKS"|"Sao paulo"|1
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|1
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Fortaleza"|3
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|1
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Belo horizonte"|3
+"BRAZIL"|"2023-11-26"|"11"|"PASSENGER"|"Interior paulista b"|1
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Fortaleza"|232
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Parana"|235
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Interior paulista a"|502
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Parana"|516
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Recife"|715
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Centro oeste"|508
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Sao paulo"|2020
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Belo horizonte"|363
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Belo horizonte"|3063
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Recife"|895
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Espirito santo"|174
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Porto alegre"|442
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|165
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|50
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Interior paulista b"|9
+"BRAZIL"|"2023-12-06"|"12"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Recife"|32
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Rio de janeiro"|51
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Belem"|33
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Brasilia"|2
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Recife"|4
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Interior paulista a"|12
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Parana"|175
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Santa catarina"|366
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Interior paulista b"|219
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Centro oeste"|371
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Recife"|662
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|65
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Belem"|502
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Belem"|220
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Parana"|705
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Interior paulista b"|254
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Interior paulista a"|54
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|217
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Recife"|262
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Centro oeste"|521
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Belo horizonte"|4867
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Santa catarina"|237
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Interior mg"|212
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Parana"|1047
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Interior paulista b"|310
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Parana"|501
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Santa catarina"|309
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Interior paulista b"|38
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Recife"|697
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Rio de janeiro"|27
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|260
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|178
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Rio de janeiro"|13
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Interior mg"|201
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Interior paulista b"|67
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Sao paulo"|406
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Rio de janeiro"|302
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|234
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Centro oeste"|700
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Interior mg"|24
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Interior paulista a"|17
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Porto alegre"|445
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|157
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|283
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|141
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Centro oeste"|395
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|123
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Interior paulista a"|807
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Parana"|500
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Recife"|40
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Sao paulo"|80
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Belem"|310
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Interior paulista a"|99
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Interior mg"|245
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Sao paulo"|75
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|166
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|344
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Rio de janeiro"|284
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|51
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Brasilia"|269
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|148
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Belem"|252
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Interior mg"|72
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Belo horizonte"|7226
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Recife"|102
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|216
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Fortaleza"|216
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Rio de janeiro"|22
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|97
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|253
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Belo horizonte"|1738
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Brasilia"|189
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|188
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|14
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Santa catarina"|48
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Sao paulo"|277
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Porto alegre"|37
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Sao paulo"|90
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Belem"|146
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Santa catarina"|23
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Centro oeste"|24
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Centro oeste"|72
+"BRAZIL"|"2023-11-12"|"11"|"TRUCKS"|"Centro oeste"|1
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Belem"|313
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Belem"|70
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|40
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Porto alegre"|2
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Rio de janeiro"|17
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Parana"|144
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Espirito santo"|81
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Parana"|3
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|172
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|72
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Santa catarina"|82
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Belo horizonte"|21
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|60
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Centro oeste"|52
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Interior paulista b"|21
+"BRAZIL"|"2023-11-02"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|2
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|109
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Sao paulo"|48
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Espirito santo"|18
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Espirito santo"|86
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Belo horizonte"|13
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Interior paulista b"|5
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Santa catarina"|32
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Belem"|24
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Interior paulista b"|2
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Interior mg"|29
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Recife"|46
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Interior paulista b"|29
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Belem"|37
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Belem"|7
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Interior paulista a"|33
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Interior mg"|36
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Sao paulo"|1
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Interior paulista a"|86
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Interior mg"|26
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Interior paulista b"|30
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|56
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Espirito santo"|26
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Interior paulista b"|22
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Brasilia"|8
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Interior paulista a"|13
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Parana"|13
+"BRAZIL"|"2023-11-11"|"11"|"PASSENGER"|"Santa catarina"|7
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Porto alegre"|53
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Belem"|28
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Espirito santo"|5
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Sao paulo"|18
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Interior paulista a"|11
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Interior mg"|33
+"BRAZIL"|"2023-11-12"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|5
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Espirito santo"|5
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Fortaleza"|7
+"BRAZIL"|"2023-11-26"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|1
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Belem"|24
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Fortaleza"|2
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Belem"|4
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Espirito santo"|10
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Interior paulista b"|7
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Interior mg"|5
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Belem"|7
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Espirito santo"|2
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Interior paulista a"|6
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Sao paulo"|2
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Interior paulista a"|3
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Interior paulista b"|9
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Recife"|2
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Santa catarina"|14
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Belo horizonte"|5
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Interior paulista b"|3
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Brasilia"|2
+"BRAZIL"|"2023-11-19"|"11"|"PASSENGER"|"Parana"|2
+"BRAZIL"|"2023-11-04"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|2
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Recife"|1
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|7
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Porto alegre"|424
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|33
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Porto alegre"|47
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Interior paulista b"|30
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Belo horizonte"|20
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Recife"|37
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Rio de janeiro"|9
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|100
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|128
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Belem"|3
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Porto alegre"|22
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|268
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|94
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Brasilia"|231
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|141
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Rio de janeiro"|23
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Espirito santo"|20
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Parana"|40
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Santa catarina"|430
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Recife"|35
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|56
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|33
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Brasilia"|245
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Interior paulista a"|703
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|105
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Fortaleza"|188
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Rio de janeiro"|307
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Belem"|319
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Belem"|24
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Rio de janeiro"|30
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Interior paulista b"|14
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Centro oeste"|32
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Recife"|23
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|36
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Brasilia"|2
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Belo horizonte"|12
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Belem"|5
+"BRAZIL"|"2023-12-10"|"12"|"PASSENGER"|"Santa catarina"|1
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Espirito santo"|14
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Porto alegre"|36
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Santa catarina"|6
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Porto alegre"|5
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-10-31"|"10"|"BUS"|"Centro oeste"|4
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Brasilia"|195
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|102
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Recife"|75
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|58
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Interior paulista a"|36
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|330
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Belem"|284
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Brasilia"|68
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Parana"|30
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|123
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Interior paulista a"|45
+"BRAZIL"|"2023-12-03"|"12"|"LIGHT COMMERCIAL"|"Recife"|2
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Fortaleza"|4
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Centro oeste"|3
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Rio de janeiro"|16
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Brasilia"|76
+"BRAZIL"|"2023-12-02"|"12"|"TRUCKS"|"Interior paulista b"|6
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Brasilia"|1
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Fortaleza"|2
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Santa catarina"|2
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Brasilia"|2
+"BRAZIL"|"2023-11-19"|"11"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|58
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Sao paulo"|2168
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Brasilia"|234
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Centro oeste"|596
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Espirito santo"|197
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Sao paulo"|441
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Brasilia"|504
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Interior paulista a"|620
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|124
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Fortaleza"|255
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Brasilia"|266
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|50
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Santa catarina"|41
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Interior mg"|13
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Parana"|3
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Santa catarina"|633
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Parana"|24
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Belem"|181
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|226
+"BRAZIL"|"2023-11-27"|"11"|"PASSENGER"|"Espirito santo"|123
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Brasilia"|207
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Santa catarina"|315
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Santa catarina"|264
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Parana"|84
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|290
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Parana"|330
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Belem"|357
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Espirito santo"|8
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|89
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Sao paulo"|2303
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|132
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Espirito santo"|13
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|155
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Recife"|238
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Interior paulista b"|336
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Recife"|740
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Recife"|858
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Parana"|120
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Brasilia"|250
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|109
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|70
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Recife"|240
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Recife"|321
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Parana"|322
+"BRAZIL"|"2023-11-07"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|77
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Recife"|280
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|126
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|42
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|228
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Belo horizonte"|20
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|75
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Belem"|36
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Recife"|234
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|122
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|259
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|71
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|106
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Sao paulo"|1768
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|167
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Santa catarina"|563
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Sao paulo"|327
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Belo horizonte"|1197
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|38
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|87
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Brasilia"|27
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Interior paulista b"|22
+"BRAZIL"|"2023-11-17"|"11"|"PASSENGER"|"Espirito santo"|118
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|233
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Belem"|298
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Interior paulista a"|332
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Espirito santo"|72
+"BRAZIL"|"2023-11-08"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|127
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Rio de janeiro"|280
+"BRAZIL"|"2023-11-07"|"11"|"PASSENGER"|"Brasilia"|194
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Parana"|718
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|60
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|58
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Brasilia"|272
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Brasilia"|12
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Recife"|11
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Porto alegre"|42
+"BRAZIL"|"2023-11-06"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|278
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|249
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Belo horizonte"|37
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Recife"|54
+"BRAZIL"|"2023-11-01"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|55
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|185
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|143
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|248
+"BRAZIL"|"2023-11-02"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|3
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Interior paulista b"|32
+"BRAZIL"|"2023-11-29"|"11"|"TRUCKS"|"Centro oeste"|41
+"BRAZIL"|"2023-11-04"|"11"|"PASSENGER"|"Recife"|12
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|278
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Interior paulista b"|20
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|210
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Interior paulista b"|68
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Parana"|226
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Interior paulista a"|3
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|316
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Parana"|54
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Interior paulista a"|147
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Fortaleza"|18
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Belo horizonte"|7
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Brasilia"|3
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Interior paulista a"|6
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|39
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Rio de janeiro"|36
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Espirito santo"|2
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Recife"|7
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Sao paulo"|41
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Interior paulista a"|61
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Espirito santo"|30
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Recife"|44
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|102
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Interior paulista b"|15
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Santa catarina"|25
+"BRAZIL"|"2023-11-20"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|15
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Recife"|45
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Belo horizonte"|24
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Porto alegre"|18
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Centro oeste"|4
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Espirito santo"|12
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Recife"|13
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Interior paulista a"|5
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Centro oeste"|6
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Espirito santo"|4
+"BRAZIL"|"2023-11-20"|"11"|"BUS"|"Interior paulista b"|1
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Brasilia"|4
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Interior paulista b"|27
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Porto alegre"|27
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Fortaleza"|5
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Porto alegre"|1
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Rio de janeiro"|11
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Belem"|19
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Fortaleza"|4
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Interior mg"|24
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Fortaleza"|9
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Parana"|1
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Interior mg"|12
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Parana"|4
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Parana"|25
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Recife"|11
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Interior mg"|10
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Parana"|2
+"BRAZIL"|"2023-11-18"|"11"|"TRUCKS"|"Santa catarina"|1
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Interior mg"|10
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Interior paulista a"|7
+"BRAZIL"|"2023-11-13"|"11"|"BUS"|"Belo horizonte"|9
+"BRAZIL"|"2023-11-07"|"11"|"BUS"|"Belem"|7
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Espirito santo"|2
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Rio de janeiro"|1
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Rio de janeiro"|12
+"BRAZIL"|"2023-11-17"|"11"|"BUS"|"Interior paulista b"|13
+"BRAZIL"|"2023-11-21"|"11"|"BUS"|"Brasilia"|1
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Interior paulista b"|5
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Parana"|14
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Parana"|3
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Sao paulo"|1
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Belo horizonte"|16
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Belem"|9
+"BRAZIL"|"2023-11-03"|"11"|"PASSENGER"|"Interior mg"|1
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Interior paulista a"|24
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Brasilia"|53
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|7
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Centro oeste"|10
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|92
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|148
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Interior mg"|23
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Interior paulista a"|3
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Belo horizonte"|12
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Centro oeste"|12
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Interior paulista b"|296
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Parana"|460
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Espirito santo"|136
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Belem"|30
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Interior mg"|8
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Brasilia"|261
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|146
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Belo horizonte"|1551
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Porto alegre"|369
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Espirito santo"|42
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Centro oeste"|63
+"BRAZIL"|"2023-12-14"|"12"|"TRUCKS"|"Parana"|67
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Parana"|184
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Belo horizonte"|15
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Rio de janeiro"|42
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Centro oeste"|505
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Recife"|257
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|314
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Belo horizonte"|208
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Fortaleza"|8
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Sao paulo"|25
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Recife"|2
+"BRAZIL"|"2023-12-10"|"12"|"PASSENGER"|"Recife"|1
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Interior mg"|4
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Belem"|16
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Brasilia"|3
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Parana"|1
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Centro oeste"|356
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|53
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|33
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Parana"|122
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|95
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Porto alegre"|510
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Fortaleza"|187
+"BRAZIL"|"2023-12-01"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|191
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Belem"|242
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Rio de janeiro"|11
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Porto alegre"|427
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Santa catarina"|326
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|107
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|60
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|164
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Centro oeste"|12
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Porto alegre"|16
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Porto alegre"|2
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Parana"|2
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Espirito santo"|16
+"BRAZIL"|"2023-12-03"|"12"|"PASSENGER"|"Recife"|7
+"BRAZIL"|"2023-12-03"|"12"|"PASSENGER"|"Parana"|1
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Espirito santo"|13
+"BRAZIL"|"2023-12-01"|"12"|"BUS"|"Rio de janeiro"|22
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Centro oeste"|1
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Brasilia"|1
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Interior paulista a"|2
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Interior paulista a"|4
+"BRAZIL"|"2023-11-19"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|1
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Rio de janeiro"|1
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Belem"|2
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Brasilia"|1
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Rio de janeiro"|407
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Santa catarina"|419
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|221
+"BRAZIL"|"2023-12-07"|"12"|"PASSENGER"|"Belo horizonte"|1642
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|198
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Recife"|233
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Interior paulista a"|862
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Interior paulista a"|172
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Rio de janeiro"|516
+"BRAZIL"|"2023-10-31"|"10"|"PASSENGER"|"Belo horizonte"|5954
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|312
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Espirito santo"|2
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Rio de janeiro"|413
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|76
+"BRAZIL"|"2023-12-06"|"12"|"PASSENGER"|"Interior mg"|238
+"BRAZIL"|"2023-12-06"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|88
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Sao paulo"|8
+"BRAZIL"|"2023-12-07"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|363
+"BRAZIL"|"2023-12-07"|"12"|"BUS"|"Interior paulista a"|14
+"BRAZIL"|"2023-12-06"|"12"|"BUS"|"Belem"|2
+"BRAZIL"|"2023-12-07"|"12"|"TRUCKS"|"Brasilia"|3
+"BRAZIL"|"2023-11-04"|"11"|"TRUCKS"|"Interior paulista b"|4
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Interior paulista a"|824
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Sao paulo"|1007
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Centro oeste"|37
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Interior mg"|223
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|208
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Rio de janeiro"|316
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Interior paulista b"|102
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Centro oeste"|608
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|24
+"BRAZIL"|"2023-11-28"|"11"|"PASSENGER"|"Centro oeste"|461
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Belem"|786
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Parana"|66
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Belem"|164
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Porto alegre"|382
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|156
+"BRAZIL"|"2023-11-30"|"11"|"PASSENGER"|"Sao paulo"|4202
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Centro oeste"|414
+"BRAZIL"|"2023-11-20"|"11"|"PASSENGER"|"Belem"|172
+"BRAZIL"|"2023-11-01"|"11"|"PASSENGER"|"Interior paulista b"|287
+"BRAZIL"|"2023-11-22"|"11"|"PASSENGER"|"Interior paulista a"|467
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Fortaleza"|175
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|79
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Espirito santo"|117
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Belem"|230
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Interior mg"|245
+"BRAZIL"|"2023-11-08"|"11"|"PASSENGER"|"Interior paulista b"|346
+"BRAZIL"|"2023-11-29"|"11"|"LIGHT COMMERCIAL"|"Belem"|216
+"BRAZIL"|"2023-11-16"|"11"|"PASSENGER"|"Porto alegre"|396
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|140
+"BRAZIL"|"2023-11-14"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|179
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|311
+"BRAZIL"|"2023-11-21"|"11"|"PASSENGER"|"Sao paulo"|1213
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Interior mg"|274
+"BRAZIL"|"2023-11-06"|"11"|"PASSENGER"|"Belem"|304
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|49
+"BRAZIL"|"2023-11-13"|"11"|"LIGHT COMMERCIAL"|"Recife"|222
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Recife"|204
+"BRAZIL"|"2023-11-14"|"11"|"PASSENGER"|"Belem"|270
+"BRAZIL"|"2023-11-16"|"11"|"LIGHT COMMERCIAL"|"Parana"|177
+"BRAZIL"|"2023-11-30"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|103
+"BRAZIL"|"2023-11-24"|"11"|"PASSENGER"|"Rio de janeiro"|331
+"BRAZIL"|"2023-11-23"|"11"|"PASSENGER"|"Belem"|324
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Recife"|168
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Santa catarina"|322
+"BRAZIL"|"2023-11-09"|"11"|"PASSENGER"|"Porto alegre"|311
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Belo horizonte"|272
+"BRAZIL"|"2023-11-27"|"11"|"LIGHT COMMERCIAL"|"Centro oeste"|227
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|36
+"BRAZIL"|"2023-11-22"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|156
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Centro oeste"|15
+"BRAZIL"|"2023-11-10"|"11"|"PASSENGER"|"Rio de janeiro"|346
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Parana"|82
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Santa catarina"|30
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Interior paulista b"|158
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Interior paulista b"|39
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Belem"|147
+"BRAZIL"|"2023-11-15"|"11"|"PASSENGER"|"Interior paulista a"|72
+"BRAZIL"|"2023-11-13"|"11"|"TRUCKS"|"Porto alegre"|53
+"BRAZIL"|"2023-11-10"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|52
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Centro oeste"|46
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Interior paulista a"|38
+"BRAZIL"|"2023-11-13"|"11"|"PASSENGER"|"Espirito santo"|49
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Parana"|81
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Belem"|21
+"BRAZIL"|"2023-11-18"|"11"|"LIGHT COMMERCIAL"|"Interior paulista a"|11
+"BRAZIL"|"2023-11-29"|"11"|"PASSENGER"|"Interior mg"|303
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Porto alegre"|36
+"BRAZIL"|"2023-11-07"|"11"|"TRUCKS"|"Centro oeste"|57
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|100
+"BRAZIL"|"2023-11-09"|"11"|"LIGHT COMMERCIAL"|"Porto alegre"|121
+"BRAZIL"|"2023-11-28"|"11"|"LIGHT COMMERCIAL"|"Rio de janeiro"|51
+"BRAZIL"|"2023-11-21"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|51
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Sao paulo"|39
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Recife"|49
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Brasilia"|3
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Interior paulista b"|32
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Centro oeste"|41
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Recife"|125
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Interior paulista b"|45
+"BRAZIL"|"2023-11-17"|"11"|"LIGHT COMMERCIAL"|"Brasilia"|25
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Interior mg"|39
+"BRAZIL"|"2023-11-14"|"11"|"BUS"|"Belo horizonte"|10
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Parana"|51
+"BRAZIL"|"2023-11-02"|"11"|"TRUCKS"|"Brasilia"|1
+"BRAZIL"|"2023-11-11"|"11"|"LIGHT COMMERCIAL"|"Santa catarina"|5
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Fortaleza"|10
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Porto alegre"|10
+"BRAZIL"|"2023-11-30"|"11"|"TRUCKS"|"Santa catarina"|39
+"BRAZIL"|"2023-11-24"|"11"|"LIGHT COMMERCIAL"|"Espirito santo"|44
+"BRAZIL"|"2023-11-18"|"11"|"PASSENGER"|"Brasilia"|17
+"BRAZIL"|"2023-11-09"|"11"|"TRUCKS"|"Belo horizonte"|34
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Centro oeste"|3
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Interior paulista b"|35
+"BRAZIL"|"2023-11-20"|"11"|"TRUCKS"|"Interior paulista b"|3
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Belem"|3
+"BRAZIL"|"2023-11-23"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|113
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Belo horizonte"|7
+"BRAZIL"|"2023-11-27"|"11"|"BUS"|"Sao paulo"|24
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Fortaleza"|12
+"BRAZIL"|"2023-11-15"|"11"|"LIGHT COMMERCIAL"|"Sao paulo"|7
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Belem"|24
+"BRAZIL"|"2023-11-21"|"11"|"TRUCKS"|"Brasilia"|5
+"BRAZIL"|"2023-11-08"|"11"|"TRUCKS"|"Interior mg"|20
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Santa catarina"|43
+"BRAZIL"|"2023-11-24"|"11"|"BUS"|"Recife"|4
+"BRAZIL"|"2023-11-06"|"11"|"TRUCKS"|"Interior mg"|15
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Interior paulista a"|8
+"BRAZIL"|"2023-11-23"|"11"|"BUS"|"Sao paulo"|23
+"BRAZIL"|"2023-11-14"|"11"|"TRUCKS"|"Santa catarina"|26
+"BRAZIL"|"2023-11-27"|"11"|"TRUCKS"|"Recife"|28
+"BRAZIL"|"2023-11-25"|"11"|"LIGHT COMMERCIAL"|"Fortaleza"|5
+"BRAZIL"|"2023-11-22"|"11"|"BUS"|"Espirito santo"|12
+"BRAZIL"|"2023-11-17"|"11"|"TRUCKS"|"Rio de janeiro"|13
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Interior paulista a"|11
+"BRAZIL"|"2023-11-10"|"11"|"TRUCKS"|"Belem"|25
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Interior mg"|5
+"BRAZIL"|"2023-11-25"|"11"|"TRUCKS"|"Sao paulo"|4
+"BRAZIL"|"2023-11-22"|"11"|"TRUCKS"|"Espirito santo"|10
+"BRAZIL"|"2023-11-25"|"11"|"PASSENGER"|"Santa catarina"|5
+"BRAZIL"|"2023-11-01"|"11"|"TRUCKS"|"Belo horizonte"|5
+"BRAZIL"|"2023-11-03"|"11"|"LIGHT COMMERCIAL"|"Interior mg"|1
+"BRAZIL"|"2023-11-30"|"11"|"BUS"|"Centro oeste"|3
+"BRAZIL"|"2023-11-16"|"11"|"TRUCKS"|"Rio de janeiro"|6
+"BRAZIL"|"2023-11-02"|"11"|"PASSENGER"|"Interior mg"|1
+"BRAZIL"|"2023-11-23"|"11"|"TRUCKS"|"Brasilia"|2
+"BRAZIL"|"2023-11-16"|"11"|"BUS"|"Belo horizonte"|6
+"BRAZIL"|"2023-11-29"|"11"|"BUS"|"Interior paulista b"|3
+"BRAZIL"|"2023-11-18"|"11"|"TRUCKS"|"Interior paulista a"|1
+"BRAZIL"|"2023-11-25"|"11"|"TRUCKS"|"Centro oeste"|6
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Belo horizonte"|4
+"BRAZIL"|"2023-11-24"|"11"|"TRUCKS"|"Belo horizonte"|9
+"BRAZIL"|"2023-11-28"|"11"|"TRUCKS"|"Brasilia"|2
+"BRAZIL"|"2023-11-28"|"11"|"BUS"|"Centro oeste"|5
+"BRAZIL"|"2023-11-03"|"11"|"BUS"|"Porto alegre"|2
+"BRAZIL"|"2023-11-06"|"11"|"BUS"|"Fortaleza"|1
+"BRAZIL"|"2023-11-03"|"11"|"TRUCKS"|"Belem"|4
+"BRAZIL"|"2023-11-08"|"11"|"BUS"|"Centro oeste"|1
+"BRAZIL"|"2023-11-01"|"11"|"BUS"|"Rio de janeiro"|7
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Belem"|13
+"BRAZIL"|"2023-12-09"|"12"|"LIGHT COMMERCIAL"|"Recife"|1
+"BRAZIL"|"2023-12-09"|"12"|"PASSENGER"|"Santa catarina"|12
+"BRAZIL"|"2023-12-05"|"12"|"PASSENGER"|"Belem"|326
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Interior mg"|113
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|135
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Belo horizonte"|255
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Interior paulista a"|40
+"BRAZIL"|"2023-12-05"|"12"|"LIGHT COMMERCIAL"|"Parana"|131
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Rio de janeiro"|25
+"BRAZIL"|"2023-12-05"|"12"|"TRUCKS"|"Espirito santo"|28
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Espirito santo"|2
+"BRAZIL"|"2023-12-05"|"12"|"BUS"|"Interior paulista b"|4
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Sao paulo"|1340
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Belem"|58
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Centro oeste"|361
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Porto alegre"|354
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Recife"|91
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Sao paulo"|128
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Parana"|404
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Espirito santo"|40
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Interior paulista a"|280
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Belem"|282
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Interior mg"|169
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Belem"|165
+"BRAZIL"|"2023-12-12"|"12"|"TRUCKS"|"Interior paulista a"|22
+"BRAZIL"|"2023-12-12"|"12"|"PASSENGER"|"Santa catarina"|438
+"BRAZIL"|"2023-12-14"|"12"|"PASSENGER"|"Fortaleza"|241
+"BRAZIL"|"2023-12-14"|"12"|"LIGHT COMMERCIAL"|"Centro oeste"|205
+"BRAZIL"|"2023-10-31"|"10"|"TRUCKS"|"Parana"|39
+"BRAZIL"|"2023-10-31"|"10"|"LIGHT COMMERCIAL"|"Espirito santo"|47
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Porto alegre"|158
+"BRAZIL"|"2023-12-13"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|182
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Brasilia"|4
+"BRAZIL"|"2023-12-13"|"12"|"PASSENGER"|"Espirito santo"|101
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Santa catarina"|61
+"BRAZIL"|"2023-12-08"|"12"|"PASSENGER"|"Brasilia"|179
+"BRAZIL"|"2023-12-08"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|43
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Espirito santo"|10
+"BRAZIL"|"2023-12-12"|"12"|"LIGHT COMMERCIAL"|"Fortaleza"|63
+"BRAZIL"|"2023-12-13"|"12"|"BUS"|"Sao paulo"|12
+"BRAZIL"|"2023-12-13"|"12"|"TRUCKS"|"Espirito santo"|6
+"BRAZIL"|"2023-12-08"|"12"|"TRUCKS"|"Santa catarina"|69
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Santa catarina"|6
+"BRAZIL"|"2023-12-14"|"12"|"BUS"|"Centro oeste"|4
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Parana"|5
+"BRAZIL"|"2023-12-12"|"12"|"BUS"|"Interior paulista b"|5
+"BRAZIL"|"2023-12-08"|"12"|"BUS"|"Belo horizonte"|1
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Recife"|534
+"BRAZIL"|"2023-12-11"|"12"|"PASSENGER"|"Sao paulo"|1468
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Parana"|40
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Santa catarina"|97
+"BRAZIL"|"2023-12-01"|"12"|"PASSENGER"|"Recife"|488
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Interior paulista b"|34
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Belem"|21
+"BRAZIL"|"2023-12-04"|"12"|"PASSENGER"|"Sao paulo"|2787
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Recife"|193
+"BRAZIL"|"2023-12-04"|"12"|"LIGHT COMMERCIAL"|"Belem"|141
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Belem"|33
+"BRAZIL"|"2023-12-11"|"12"|"LIGHT COMMERCIAL"|"Interior paulista a"|105
+"BRAZIL"|"2023-12-11"|"12"|"TRUCKS"|"Rio de janeiro"|32
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Centro oeste"|61
+"BRAZIL"|"2023-12-01"|"12"|"TRUCKS"|"Parana"|77
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Belo horizonte"|11
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Interior paulista b"|15
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Fortaleza"|11
+"BRAZIL"|"2023-12-04"|"12"|"BUS"|"Rio de janeiro"|23
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Santa catarina"|3
+"BRAZIL"|"2023-12-04"|"12"|"TRUCKS"|"Rio de janeiro"|4
+"BRAZIL"|"2023-12-11"|"12"|"BUS"|"Parana"|2
+"BRAZIL"|"2023-12-02"|"12"|"PASSENGER"|"Recife"|49
+"BRAZIL"|"2023-12-02"|"12"|"LIGHT COMMERCIAL"|"Interior paulista b"|18
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Centro oeste"|2
+"BRAZIL"|"2023-11-09"|"11"|"BUS"|"Espirito santo"|1
+"BRAZIL"|"2023-11-10"|"11"|"BUS"|"Santa catarina"|1

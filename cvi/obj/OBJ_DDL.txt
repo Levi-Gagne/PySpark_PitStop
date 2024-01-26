@@ -1,0 +1,80 @@
+--OBJ_ARE,BAC,REG,ZON DDL 
+--USE TO CREATE STAGING TABLES IN THE TST ENV
+
+--OBJ_ARE
+------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_ARE;
+CREATE EXTERNAL TABLE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_ARE
+(
+  Region_Cd VARCHAR(20),
+  Sec_Cd VARCHAR(20),
+  Zone_Cd VARCHAR(20),
+  Area_Cd VARCHAR(20),
+  Sell_Src_Cd INT,
+  Brand_Cd VARCHAR(20),
+  Rpt_Dt DATE,
+  Obj_Cnt INT
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/OBJ_ARE/Data"
+
+TBLPROPERTIES('serialization.null.format'='');
+
+--OBJ_BAC
+------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_BAC;
+CREATE EXTERNAL TABLE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_BAC
+(
+  Biz_Assoc_Id BIGINT,
+  Sell_Src_Cd INT,
+  Brand_Cd VARCHAR(20),
+  Rpt_Dt DATE,
+  Obj_Cnt INT
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/OBJ_BAC/Data"
+
+TBLPROPERTIES('serialization.null.format'='');
+
+
+--OBJ_REG
+------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_REG;
+CREATE EXTERNAL TABLE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_REG
+(
+  Region_Cd VARCHAR(20),
+  Sell_Src_Cd INT,
+  Brand_Cd VARCHAR(20),
+  Rpt_Dt DATE,
+  Obj_Cnt INT
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/OBJ_REG/Data"
+
+TBLPROPERTIES('serialization.null.format'='');
+
+--OBJ_ZON
+------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_ZON;
+CREATE EXTERNAL TABLE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista.OBJ_ZON
+(
+  Region_Cd VARCHAR(20),
+  Sec_Cd VARCHAR(20),
+  Zone_Cd VARCHAR(20),
+  Sell_Src_Cd INT,
+  Brand_Cd VARCHAR(20),
+  Rpt_Dt DATE,
+  Obj_Cnt INT
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/OBJ_ZON/Data"
+
+TBLPROPERTIES('serialization.null.format'='');

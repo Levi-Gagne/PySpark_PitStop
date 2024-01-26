@@ -1,0 +1,153 @@
+----COURTESY TRANSPORTATION CDS INCREMENTAL SQL------
+
+
+With rtl_sales_thru as (
+    select sales_thru_dt, --Sales thru Date
+        prior_yr_start_dt --Prior Years
+    from marketing360_public.fs_gbl_sales_cal_day_rpt_lkp
+    where iso_ctry_cd = 'US' 
+    and sales_thru_dt = date_sub(to_date(current_date),1)
+), --this query grabs the rtl_sales_thru date ranges and selling day count
+
+  
+  
+  Inc_Stg_Out_Serv as (
+  SELECT vin, outdate, todaydate, daysinservice, outmile, outtype, loangreaterthan60,
+            
+  row_number() over 
+            (partition by vin || outdate || daysinservice || outmile
+            order by todaydate asc) row_num -- identify duplicate entries and choose most recent file date as row 1
+  
+  FROM dl_edge_base_dcfpa_171749_base_dcfpa_avista.ret_crtsy_trp_pgm_stg
+
+  ),    -- pull all data from staging table and identify duplicates
+    
+    
+    
+    In_Serv_Dtl as (
+    Select
+    DISTINCT f.veh_id_nbr,
+    f.orig_proc_dt,
+     f.biz_assoc_id,
+        f.model_yr,
+        case f.sell_src_cd
+            when 11 then 'Buick'
+            when 12 then 'Cadillac'
+            when 13 then 'Chevrolet'
+            when 48 then 'GMC'
+        end as selling_source,
+        f.sell_src_cd,
+        f.veh_prod_rpt_model_cd,
+        f.deliv_type_ctgy,
+        row_number() over 
+            (partition by f.veh_id_nbr || f.biz_assoc_id
+            order by f.orig_proc_dt asc) row_num    -- identify all process dates for CTP event/vin
+        
+    from
+        vehicle360_avista.fs_daily_veh_deliv f, rtl_sales_thru
+    
+    
+    where
+        f.ntl_cd = 'US' --reporting country
+       and f.kpi_type_cd in (25,95)
+        and f.sell_src_cd in (11,12,13,48) --Buick, Cadillac, Chevrolet, GMC
+        and f.orig_proc_dt <= rtl_sales_thru.sales_thru_dt 
+       and year(f.orig_proc_dt) > = 2021 
+      --and datediff(to_date(rtl_sales_thru.prior_yr_start_dt), f.orig_proc_dt) < 365  -- no records earlier than Jan 2021
+      and f.veh_deliv_cnt = 1
+
+    ),  -- pull all CTP records (+1) back to January 2021
+    
+Inc_Dlr_Seq as (
+    Select
+    veh_id_nbr,
+    orig_proc_dt,
+    biz_assoc_id,
+    model_yr,
+    selling_source,
+    sell_src_cd,
+    veh_prod_rpt_model_cd,
+    row_number() over 
+            (partition by veh_id_nbr
+            order by orig_proc_dt desc) out_dlr_num -- most recent dealer with CTP event for vin 
+    
+    
+    from In_Serv_Dtl
+    
+    where row_num = 1   -- First process date for Dlr/CTP event 
+    
+    ),  --Orders Dlr/VIN events
+
+
+
+Inc_Out_Serv_Dlr_Dtl as (
+Select
+    isos.vin,
+    outcpt.orig_proc_dt,
+    isos.outdate,
+    isos.daysinservice,
+    isos.todaydate,
+    outcpt.biz_assoc_id,
+    outcpt.selling_source, 
+    outcpt.sell_src_cd,
+    outcpt.veh_prod_rpt_model_cd,
+    outcpt.model_yr,
+    isos.outmile,
+    isos.outtype,
+    isos.loangreaterthan60,
+    row_number() over 
+            (partition by vin
+            order by todaydate desc) dlr_seq_num    -- number the sequence of events per vin by file date
+
+from
+   Inc_Stg_Out_Serv isos
+    
+left join
+    Inc_Dlr_Seq outcpt
+    on outcpt.veh_id_nbr = isos.vin
+
+where isos.todaydate = to_date(current_date) -- Today's file
+and isos.row_num = 1                    -- eliminate duplicate ontrac record and choose most recent record
+and outcpt.out_dlr_num = 1              -- select last dealer/bac with CTP event for vin
+and isos.outdate > outcpt.orig_proc_dt   -- outdate must occur after process date
+
+
+
+
+)   -- chooses most recent Dlr/CT record
+
+select
+    vin as veh_id_nbr,
+    todaydate as file_dt,
+    orig_proc_dt as in_svc_dt,
+    outdate as out_svc_dt,
+    biz_assoc_id as biz_assoc_id,
+    daysinservice as day_in_svc_cnt,
+    outmile as out_svc_mil_cnt,
+    outtype as out_svc_type_cd,
+    selling_source as sell_src_desc, 
+    sell_src_cd as sell_src_cd,
+    veh_prod_rpt_model_cd as veh_prod_rpt_model_cd,
+    model_yr as model_yr,
+    loangreaterthan60 as loan_great_than_60_day_cd
+    
+From Inc_Out_Serv_Dlr_Dtl  
+
+    
+group by
+
+    vin,
+    todaydate,
+    orig_proc_dt,
+    outdate,
+    biz_assoc_id,
+    daysinservice,
+    outmile,
+    outtype,
+    selling_source, 
+    sell_src_cd,
+    veh_prod_rpt_model_cd,
+    model_yr,
+    loangreaterthan60
+
+---- final column names -----

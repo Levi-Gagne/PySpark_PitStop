@@ -1,0 +1,852 @@
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|26|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|1|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|41|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|21|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|1|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|25|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|1|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|5|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|6|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|6|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|2|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|9|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|10|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|17|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|11|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|26|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|103|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|17|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|9|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|19|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|106|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|1|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|32|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|28|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|2|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|26|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|191|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|154|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|13|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|1|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|14|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|9|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|69|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|4|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|3|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|1|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|2|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|6|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|15|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|328|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|5|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|23|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|2|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|10|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|244|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|92|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|15|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|364|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|416|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|31|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|-1|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|81|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|24|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|36|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|79|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|58|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|1|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|75|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|5|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|175|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|6|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|7|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|54|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|16|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|11|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|14|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|7|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|32|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/01|2023/12|33|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/01|2023/12|23|||||Zevo 600|BrightDrop|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|63|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|88|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|25|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|3|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|51|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|11|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|8|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|17|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|8|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|22|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|14|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|46|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|109|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|29|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|8|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|51|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|93|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|1|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|56|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|30|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|44|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|41|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|327|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|6|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|13|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|31|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|1|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|48|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|3|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|10|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|18|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|28|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|258|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|0|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|5|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|4|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|3|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|432|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|18|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|14|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|602|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|178|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|47|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|135|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|2|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|83|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|2|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|127|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|6|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|123|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|353|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|1|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|7|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|23|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|41|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|23|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|25|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|7|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|50|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/02|2023/12|1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/02|2023/12|47|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|193|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|236|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|7|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|5|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|117|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|2|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|29|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|26|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|49|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|27|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|81|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|65|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|165|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|13|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|93|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|27|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|125|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|1|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|154|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|140|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|2|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|117|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|952|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|51|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|41|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|99|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|6|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|75|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|11|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|30|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|2|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|59|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|78|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|71|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|15|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|58|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|4|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|49|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|1318|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|63|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|1921|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|242|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|143|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|5|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|411|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|24|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|254|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|4|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|269|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|6|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|410|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|11|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|743|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|5|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|34|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|69|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|-1|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|46|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|4|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|159|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/04|2023/12|136|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/04|2023/12|1|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|88|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|3|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|86|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|18|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|3|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|40|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|5|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|9|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|2|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|13|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|30|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|13|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|33|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|-1|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|15|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|1|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|92|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|170|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|43|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|15|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|50|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|179|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|76|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|69|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|62|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|-9|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|87|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|338|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|194|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|28|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|3|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|63|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|2|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|28|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|139|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|3|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|13|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|4|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|16|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|24|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|25|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|407|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|12|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|25|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|3|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|19|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|478|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|105|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|5|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|769|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|527|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|69|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|4|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|152|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|42|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|99|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|177|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|111|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|9|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|143|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|10|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|370|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|11|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|30|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|36|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|56|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|3|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|36|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|18|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|74|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/05|2023/12|-1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/05|2023/12|60|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|81|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|112|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|10|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|1|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|46|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|7|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|20|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|1|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|9|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|29|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|16|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|37|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|36|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|103|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|32|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|61|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|19|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|61|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|86|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|3|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|73|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|25|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|63|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|79|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|391|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|245|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|16|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|45|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|1|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|15|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|140|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|4|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|18|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|1|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|6|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|12|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|27|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|33|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|245|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|9|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|33|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|5|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|15|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|603|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|73|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|10|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|895|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|453|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|83|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|5|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|182|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|38|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|116|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|178|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|141|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|2|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|134|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|9|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|402|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|1|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|31|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|63|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|68|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|8|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|46|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|11|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|90|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|3|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/06|2023/12|58|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/06|2023/12|3|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|89|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|2|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|127|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|19|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|6|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|53|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|2|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|20|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|1|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|14|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|26|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|1|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|15|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|51|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|41|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|2|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|120|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|24|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|61|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|31|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|72|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|67|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|89|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|691|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|82|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|1|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|100|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|479|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|134|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|33|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|6|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|82|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|31|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|53|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|4|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|17|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|2|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|7|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|39|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|35|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|263|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|6|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|27|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|9|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|5|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|667|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|96|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|7|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|1230|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|440|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|79|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|4|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|227|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|20|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|142|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|90|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|146|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|29|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|167|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|7|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|483|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|7|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|30|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|39|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|70|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|7|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|47|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|15|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|84|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/07|2023/12|1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/07|2023/12|71|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|103|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|174|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|42|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|6|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|1|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|55|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|19|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|30|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|5|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|22|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|34|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|23|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|54|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|60|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|158|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|11|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|79|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|34|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|1|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|98|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|50|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|1|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|102|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|35|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|86|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|114|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|483|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|283|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|32|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|4|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|88|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|1|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|23|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|69|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|5|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|19|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|4|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|24|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|31|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|46|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|399|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|14|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|37|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|5|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|29|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|844|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|55|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|5|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|1346|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|560|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|121|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|6|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|236|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|57|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|158|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|177|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|192|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|19|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|218|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|10|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|547|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|10|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|35|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|74|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|92|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|4|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|50|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|44|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|103|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/08|2023/12|84|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/08|2023/12|3|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|100|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|144|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|41|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|4|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|53|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|2|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|38|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|2|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|15|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|30|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|18|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|40|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|45|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|127|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|5|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|39|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|17|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|69|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|34|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|94|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|85|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|90|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|91|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|412|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|203|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|23|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|68|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|6|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|62|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|5|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|10|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|2|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|1|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|45|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|51|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|255|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|1|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|13|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|5|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|5|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|656|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|46|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|6|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|1017|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|301|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|84|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|2|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|234|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|2|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|142|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|218|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|185|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|13|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|202|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|1|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|502|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|2|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|47|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|65|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|75|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|6|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|42|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|19|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|77|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/09|2023/12|1|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/09|2023/12|60|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|221|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|3|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|276|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|15|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|9|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|188|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|14|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|67|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|2|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|30|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|83|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|39|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|1|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|114|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|96|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|263|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|19|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|197|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|49|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|190|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|1|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|4|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|184|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|1|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|158|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|-3|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|167|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|1067|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|79|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|75|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|3|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|163|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|38|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|103|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|17|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|30|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|2|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|15|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|75|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|107|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|15|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|16|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|15|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|12|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|11|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|1601|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|78|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|2677|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|341|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|217|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|5|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|573|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|40|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|290|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|4|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|342|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|5|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|514|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|10|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|939|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|6|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|74|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|158|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|110|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|176|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|10|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/11|2023/12|187|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/11|2023/12|3|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|79|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|4|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|139|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|93|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|5|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|54|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|13|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|17|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|1|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|13|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|33|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|7|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|11|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|34|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|23|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|2|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|110|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|39|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|53|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|18|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|101|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|89|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|4|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|100|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|18|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|72|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|101|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|438|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|254|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|37|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|5|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|65|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|2|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|14|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|86|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|3|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|19|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|4|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|34|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|38|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|45|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|482|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|11|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|51|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|6|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|24|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|669|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|68|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|5|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|1141|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|437|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|1|||||Spark M2|Chevrolet|Car  |Entry Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|95|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|4|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|195|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|24|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|132|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|41|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|127|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|16|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|196|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|7|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|355|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|71|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|41|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|99|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|76|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|28|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|52|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|55|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|50|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|2|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/12|2023/12|71|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|5|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/12|2023/12|9|||||Zevo 600|BrightDrop|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|94|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|5|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|168|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|87|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|4|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|68|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|3|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|29|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|13|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|20|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|36|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|9|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|9|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|46|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|2|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|48|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|3|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|107|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|24|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|73|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|27|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|-1|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|74|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|79|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|1|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|76|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|35|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|80|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|99|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|500|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|196|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|40|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|8|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|83|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|2|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|16|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|94|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|8|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|12|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|4|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|12|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|1|||||LCF Med/Heavy|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|49|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|52|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|377|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|17|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|36|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|11|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|56|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|700|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|68|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|7|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|1154|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|441|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|93|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|13|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|257|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|105|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|117|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|72|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|151|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|3|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|242|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|21|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|411|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|14|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|41|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|77|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|63|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|8|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|57|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|29|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|98|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|6|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/13|2023/12|73|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/13|2023/12|3|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|92|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|6|||||Acadia C1UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|216|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|65|||||Blazer C1UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|3|||||Blazer EV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|59|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|2|||||Bolt EUV|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|19|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|2|||||Bolt EV|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|17|||||CT4|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|34|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|9|||||CT5|Cadillac|Car  |Luxury Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|12|||||Camaro A1AC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|39|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|1|||||Camaro A1BC|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|32|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|1|||||Canyon|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|139|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|20|||||Colorado|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|49|||||Corvette Stingray|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|39|||||Corvette Z06|Chevrolet|Car  |Sport Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|85|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|82|||||Enclave C1YB|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|2|||||Encore|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|87|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|7|||||Encore GX|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|90|||||Envision|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|98|||||Envista|Buick|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|513|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|293|||||Equinox D2UC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|44|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|6|||||Escalade ESV T1YLF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|79|||||Escalade T1ULF|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|33|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|254|||||Express|Chevrolet|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|3|||||HUMMER EV Pickup|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|18|||||HUMMER EV SUV|GMC|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|3|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|6|||||LCF|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|46|||||LYRIQ EV|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|60|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|366|||||Malibu E2SC|Chevrolet|Car  |Mid/Large Car||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|14|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|43|||||Medium (Chev)|Chevrolet|Truck|Med/Hvy||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|9|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|23|||||Savana|GMC|Truck|Van/MPV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|824|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|103|||||Sierra T1XXX|GMC|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|10|||||Silverado EV|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|1286|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|364|||||Silverado T1XXX|Chevrolet|Truck|Pickup||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|102|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|20|||||Suburban T1YCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|248|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|165|||||Tahoe T1UCF|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|119|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|11|||||Terrain D2UG|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|150|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|9|||||TrailBlazer|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|207|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|12|||||Traverse C1YC|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|419|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|6|||||Trax|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|35|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|55|||||XT4|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|95|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|9|||||XT5|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|59|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|15|||||XT6|Cadillac|Truck|Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|87|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|6|||||Yukon T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Retail|2023/12/14|2023/12|82|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|8|||||Yukon XL T1XXX|GMC|Truck|Non Luxury SUV||||||||||||||||||
+UNITED STATES|GMUS|NATIONAL|Fleet|2023/12/14|2023/12|10|||||Zevo 600|BrightDrop|Truck|Van/MPV||||||||||||||||||

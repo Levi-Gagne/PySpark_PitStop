@@ -1,0 +1,25 @@
+CREATE SCHEMA IF NOT EXISTS dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dev_dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dl_edge_base_dcfpa_171749_base_dcfpa_avista.fleet_oos_stg;
+CREATE EXTERNAL TABLE dl_edge_base_dcfpa_171749_base_dcfpa_avista.fleet_oos_stg
+(
+  Model_Nm VARCHAR(60),
+  Jan INT,
+  Feb INT,
+  Mar INT,
+  Apr INT,
+  May INT,
+  Jun INT,
+  Jul INT,
+  Aug INT,
+  Sep INT,
+  Oct INT,
+  Nov INT,
+  `Dec` INT,
+  Rpt_Dt DATE,
+  Sales_Through_Dt DATE
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/FLEET_OOS_STG/Data"
+
+TBLPROPERTIES('serialization.null.format'='');

@@ -1,0 +1,242 @@
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|1|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|1|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|39|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|8|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|1|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/01|2023/12|0|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|1|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|131|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|23|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|4|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/04|2023/12|1|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|1|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|2|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|127|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|1|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|16|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|1|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/05|2023/12|1|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|2|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|2|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|123|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|20|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|2|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/06|2023/12|5|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|1|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|133|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|12|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|3|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/07|2023/12|0|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|2|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|104|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|2|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|8|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/08|2023/12|0|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|1|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|162|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|18|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|3|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/11|2023/12|1|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|3|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|1|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|122|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|2|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|26|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|3|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/12|2023/12|3|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|3|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|1|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|82|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|1|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|17|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|3|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/13|2023/12|1|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|1|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|61|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|8|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|3|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/14|2023/12|1|||||Sierra|GMC|Truck|Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Alpheon|Alpheon|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Aveo|Chevrolet|Car|Small||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Bolt|Chevrolet|Car|Sub Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Bolt EUV|Chevrolet|Car|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Camaro|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Captiva|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|1|||||Colorado|Chevrolet|Truck|Mid Pickup||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Corvette|Chevrolet|Car|Sports||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Cruze|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Equinox|Chevrolet|Truck|Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Impala|Chevrolet|Car|Upper Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Malibu|Chevrolet|Car|Intermediate||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Orlando|Chevrolet|Truck|Sub-Compact MPV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Spark|Chevrolet|Car|Mini||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|44|||||TRAX-K|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Tahoe|Chevrolet|Truck|Non Luxury SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|17|||||Trailblazer|Chevrolet|Truck|Sub-Compact SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|1|||||Traverse|Chevrolet|Truck|Mid SUV||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Volt|Chevrolet|Car|Lower Medium||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Damas|GM Non-Brand|Truck|Mini Bus||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Labo|GM Non-Brand|Truck|Mini Truck||||||||||||||||||
+South Korea|GM Korea Company||Retail|2023/12/15|2023/12|0|||||Sierra|GMC|Truck|Pickup||||||||||||||||||

@@ -1,0 +1,17 @@
+CREATE SCHEMA IF NOT EXISTS dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dl_edge_base_dcfpa_171749_base_dcfpa_avista.Glb_Industrial_Outlook_Stg;
+CREATE EXTERNAL TABLE dl_edge_base_dcfpa_171749_base_dcfpa_avista.Glb_Industrial_Outlook_Stg
+(
+  NTL_CD VARCHAR(2),
+  VEH_TYPE_GRP_CD VARCHAR(20),
+  EFF_MNTH_DT DATE,
+  INDY_OUTLK_QTY INT,
+  INDY_SEASNLY_ADJ_ANNL_NBR FLOAT,
+  LAST_UPDT_USR_ID VARCHAR(200),
+  LAST_UPDT_DT DATE
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/GBL_INDUSTRIAL_OUTLOOK_STG/Data"
+
+TBLPROPERTIES('serialization.null.format'='');

@@ -1,0 +1,50 @@
+--============================================================================== 
+-- Copyright (c) 2017, General Motors, all rights reserved 
+--============================================================================== 
+-- 
+-- FILENAME: 
+-- FS_DLR_FRCST.ddl
+-- 
+-- NOTES:  This table contain global objective Forecast, Fulfillment center targets, etc. 
+--		   PK is FRCST_DT + BIZ_ASSOC_CD + SELL_SRC_CD + KPI_CD + ISO_CTRY_CD + FRCST_MODEL_CD + SRC_SYS_ID.
+--         	Sourced from UMF daily created by a Strategic Business Team and uploaded via Sterling to MFTP-50627
+--			into AVISTA staging table (dl_edge_base_dcfpa_171749_base_dcfpa_avista.DLR_FRCST_Stg).
+--			Daily truncate/reload __???__.
+--
+-- MODIFIED: 
+-- Vedant Majmudar	10.02.2023 			Initial creation  
+--
+--
+--==============================================================================
+
+
+
+
+USE Sales_mktg360;
+DROP TABLE Sales_mktg360.FS_DLR_FRCST;
+
+CREATE EXTERNAL TABLE Sales_mktg360.FS_DLR_FRCST
+(
+	FRCST_DT 								DATE			NOT NULL	COMMENT 'Forecast Date',
+	BIZ_ASSOC_CD 							INT				NOT NULL	COMMENT 'Business Associate Code',
+	SELL_SRC_CD 							INT				NOT NULL	COMMENT 'Selling Source Code',
+	KPI_CD 									INT				NOT NULL	COMMENT 'Key Performance Indicator Code',
+	ISO_CTRY_CD 							CHAR(2)			NOT NULL	COMMENT 'Iso Country Code',
+	FRCST_MODEL_CD 							INT				NOT NULL	COMMENT 'Forecast Model Code',
+	SRC_SYS_ID								VARCHAR(20)		NOT NULL	COMMENT 'Source System Identifier',
+	FRCST_MODEL_NM 							VARCHAR(50)		NOT NULL	COMMENT 'Forecast Model Name',
+	KPI_VAL 								DECIMAL(14,5)	NOT	NULL	COMMENT 'Key Performance Indicator Value',
+	KPI_SHORT_DESC 							VARCHAR(50)		NOT NULL	COMMENT 'Key Performance Indicator Short Description',
+	KPI_LONG_DESC 							VARCHAR(200)	NOT NULL	COMMENT 'Key Performance Indicator Long Description',
+	ISAS_BRAND_CD 							VARCHAR(10)			NULL	COMMENT 'Incentive Sales Activity System Brand Code',
+	SRC_SYS_LAST_UPD_TS 					TIMESTAMP		NOT NULL	COMMENT 'Source System Last Update Timestamp',
+	SRC_SYS_LAST_UPD_USR_ID 				VARCHAR(50)		NOT NULL	COMMENT 'Source System Last Update User Identifier',
+	SRC_SYS_UNIQ_PRIM_KEY_VAL 				VARCHAR(500)	NOT NULL	COMMENT 'Source System Unique Primary Key Value',
+	SRC_SYS_UNIQ_PRIM_KEY_COL_VAL 			VARCHAR(500)	NOT NULL	COMMENT 'Source System Unique Primary Key Column Value',
+	MEAS_CNT 								INT				NOT NULL	COMMENT 'Mean Count',
+	DW_ANOM_FLG 							CHAR(1)			NOT NULL	COMMENT 'Data Warehouse Anomaly Flag',
+	DW_MOD_TS 								TIMESTAMP		NOT NULL	COMMENT 'Data Warehouse Modification timestamp',
+	SRC_SYS_IUD_CD 							CHAR(1)			NOT NULL	COMMENT 'Source System IUD Code',
+	DW_JOB_ID 								VARCHAR(50)		NOT NULL	COMMENT 'Data Warehouse Job Identifier'
+)
+LOCATION '/sync/prd_42124_edw_b/EDW/SALES_MKTG360/RZ/FS_DLR_FRCST/Data  ';

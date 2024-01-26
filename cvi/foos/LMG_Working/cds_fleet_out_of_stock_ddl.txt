@@ -1,0 +1,23 @@
+DROP TABLE IF EXISTS sales_mktg.cds_fleet_out_of_stock;
+
+CREATE EXTERNAL TABLE sales_mktg.cds_fleet_out_of_stock
+(
+    Rpt_Dt DATE,
+    Sales_Thru_Dt DATE,
+    Src_Sys_Id VARCHAR(20),
+    Day_Sales_Cnt INT,
+    Mth_to_Dt_Sales_Cnt INT,
+    Rpt_Mth_Nbr INT,
+    Rpt_Mth_Abbr_Txt VARCHAR(20),
+    Src_Sys_Uniq_Prim_Key_Val VARCHAR(500),
+    Src_Sys_Uniq_Prim_Key_Col_Val VARCHAR(500),
+    Meas_Cnt INT,
+    Dw_Anom_Flg CHAR(1),
+    Dw_Mod_Ts TIMESTAMP,
+    Dw_Job_Id VARCHAR(50),
+    Src_Sys_Iud_Cd CHAR(1)
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42234_edw_b/EDW/SALES_MKTG/RZ/CDS_FLEET_OUT_OF_STOCK/Data"
+
+TBLPROPERTIES('serialization.null.format'='');

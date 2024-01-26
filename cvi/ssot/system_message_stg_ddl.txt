@@ -1,0 +1,21 @@
+CREATE SCHEMA IF NOT EXISTS dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+USE dl_edge_base_dcfpa_171749_base_dcfpa_avista;
+DROP TABLE IF EXISTS dl_edge_base_dcfpa_171749_base_dcfpa_avista.System_Message_Stg;
+
+CREATE EXTERNAL TABLE dl_edge_base_dcfpa_171749_base_dcfpa_avista.System_Message_Stg
+(
+  NTL_CD VARCHAR(2),
+  SYS_CD VARCHAR(200),
+  SYS_DESC VARCHAR(200),
+  SYS_MSG_SA_ID INT,
+  MSG_TXT VARCHAR(1000),
+  EFCTV_DT DATE,
+  EXPRTN_DT DATE,
+  MESSAGE_TYPE VARCHAR(20),
+  LAST_UPDT_USR_ID VARCHAR(200),
+  LAST_UPDT_DT DATE
+)
+STORED AS PARQUET
+LOCATION "/sync/tst_42124_edw_hi_b/DL/EDGE_BASE/DCFPA-171749/DCFPA-AVISTA/SYSTEM_MESSAGE_STG/Data"
+
+TBLPROPERTIES('serialization.null.format'='');

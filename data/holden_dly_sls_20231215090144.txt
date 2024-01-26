@@ -1,0 +1,504 @@
+Australia|Holden|Central|Retail|2023/12/01|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/01|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/01|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/01|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/01|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/01|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/01|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/01|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/01|2023/12|0|0|351|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/01|2023/12|0|0|316|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/01|2023/12|0|0|250|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/01|2023/12|1|1|279|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/01|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/01|2023/12|1|1|67|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/01|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/01|2023/12|2|2|247|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/01|2023/12|1|1|236|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/01|2023/12|0|0|259|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/01|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/01|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/01|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/01|2023/12|0|0|53|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/01|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/01|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/01|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/01|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/01|2023/12|2|2|356|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/01|2023/12|2|2|379|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/01|2023/12|1|1|373|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/01|2023/12|1|1|406|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/01|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/01|2023/12|0|0|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/01|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/01|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/01|2023/12|1|1|115|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/01|2023/12|1|1|121|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/02|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/02|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/02|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/02|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/02|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/02|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/02|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/02|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/02|2023/12|0|0|351|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/02|2023/12|0|0|316|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/02|2023/12|0|0|250|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/02|2023/12|0|1|279|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/02|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/02|2023/12|0|1|67|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/02|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/02|2023/12|0|2|247|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/02|2023/12|0|1|236|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/02|2023/12|0|0|259|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/02|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/02|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/02|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/02|2023/12|0|0|53|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/02|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/02|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/02|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/02|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/02|2023/12|0|2|356|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/02|2023/12|0|2|379|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/02|2023/12|0|1|373|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/02|2023/12|0|1|406|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/02|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/02|2023/12|0|0|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/02|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/02|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/02|2023/12|0|1|115|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/02|2023/12|0|1|121|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/03|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/03|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/03|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/03|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/03|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/03|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/03|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/03|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/03|2023/12|0|0|351|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/03|2023/12|0|0|316|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/03|2023/12|0|0|250|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/03|2023/12|0|1|279|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/03|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/03|2023/12|0|1|67|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/03|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/03|2023/12|0|2|247|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/03|2023/12|0|1|236|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/03|2023/12|0|0|259|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/03|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/03|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/03|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/03|2023/12|0|0|53|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/03|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/03|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/03|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/03|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/03|2023/12|0|2|356|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/03|2023/12|0|2|379|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/03|2023/12|0|1|373|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/03|2023/12|0|1|406|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/03|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/03|2023/12|0|0|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/03|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/03|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/03|2023/12|0|1|115|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/03|2023/12|0|1|121|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/04|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/04|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/04|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/04|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/04|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/04|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/04|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/04|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/04|2023/12|2|2|353|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/04|2023/12|1|1|317|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/04|2023/12|1|1|251|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/04|2023/12|0|1|279|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/04|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/04|2023/12|1|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/04|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/04|2023/12|2|4|249|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/04|2023/12|0|1|236|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/04|2023/12|0|0|259|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/04|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/04|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/04|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/04|2023/12|0|0|53|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/04|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/04|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/04|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/04|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/04|2023/12|1|3|357|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/04|2023/12|3|5|382|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/04|2023/12|1|2|374|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/04|2023/12|1|2|407|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/04|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/04|2023/12|0|0|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/04|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/04|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/04|2023/12|0|1|115|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/04|2023/12|0|1|121|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/05|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/05|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/05|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/05|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/05|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/05|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/05|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/05|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/05|2023/12|0|2|353|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/05|2023/12|2|3|319|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/05|2023/12|1|2|252|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/05|2023/12|5|6|284|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/05|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/05|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/05|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/05|2023/12|1|5|250|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/05|2023/12|1|2|237|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/05|2023/12|1|1|260|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/05|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/05|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/05|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/05|2023/12|0|0|53|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/05|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/05|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/05|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/05|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/05|2023/12|1|4|358|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/05|2023/12|1|6|383|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/05|2023/12|0|2|374|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/05|2023/12|3|5|410|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/05|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/05|2023/12|0|0|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/05|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/05|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/05|2023/12|0|1|115|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/05|2023/12|0|1|121|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/06|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/06|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/06|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/06|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/06|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/06|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/06|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/06|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/06|2023/12|0|2|353|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/06|2023/12|2|5|321|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/06|2023/12|0|2|252|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/06|2023/12|0|6|284|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/06|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/06|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/06|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/06|2023/12|2|7|252|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/06|2023/12|0|2|237|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/06|2023/12|2|3|262|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/06|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/06|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/06|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/06|2023/12|0|0|53|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/06|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/06|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/06|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/06|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/06|2023/12|0|4|358|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/06|2023/12|1|7|384|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/06|2023/12|0|2|374|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/06|2023/12|2|7|412|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/06|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/06|2023/12|0|0|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/06|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/06|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/06|2023/12|0|1|115|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/06|2023/12|1|2|122|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/07|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/07|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/07|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/07|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/07|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/07|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/07|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/07|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/07|2023/12|1|3|354|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/07|2023/12|3|8|324|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/07|2023/12|1|3|253|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/07|2023/12|2|8|286|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/07|2023/12|0|0|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/07|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/07|2023/12|0|0|296|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/07|2023/12|0|7|252|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/07|2023/12|1|3|238|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/07|2023/12|2|5|264|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/07|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/07|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/07|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/07|2023/12|1|1|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/07|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/07|2023/12|0|0|66|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/07|2023/12|0|0|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/07|2023/12|3|3|101|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/07|2023/12|1|5|359|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/07|2023/12|2|9|386|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/07|2023/12|1|3|375|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/07|2023/12|1|8|413|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/07|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/07|2023/12|1|1|28|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/07|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/07|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/07|2023/12|1|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/07|2023/12|0|2|122|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/08|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/08|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/08|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/08|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/08|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/08|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/08|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/08|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/08|2023/12|0|3|354|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/08|2023/12|1|9|325|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/08|2023/12|1|4|254|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/08|2023/12|0|8|286|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/08|2023/12|3|3|71|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/08|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/08|2023/12|2|2|298|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/08|2023/12|4|11|256|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/08|2023/12|1|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/08|2023/12|2|7|266|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/08|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/08|2023/12|1|1|18|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/08|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/08|2023/12|0|1|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/08|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/08|2023/12|1|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/08|2023/12|1|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/08|2023/12|2|5|103|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/08|2023/12|0|5|359|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/08|2023/12|3|12|389|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/08|2023/12|1|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/08|2023/12|0|8|413|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/08|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/08|2023/12|1|2|29|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/08|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/08|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/08|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/08|2023/12|0|2|122|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/09|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/09|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/09|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/09|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/09|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/09|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/09|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/09|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/09|2023/12|0|3|354|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/09|2023/12|1|10|326|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/09|2023/12|0|4|254|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/09|2023/12|0|8|286|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/09|2023/12|0|3|71|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/09|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/09|2023/12|2|4|300|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/09|2023/12|2|13|258|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/09|2023/12|0|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/09|2023/12|0|7|266|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/09|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/09|2023/12|0|1|18|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/09|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/09|2023/12|1|2|55|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/09|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/09|2023/12|0|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/09|2023/12|0|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/09|2023/12|0|5|103|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/09|2023/12|0|5|359|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/09|2023/12|2|14|391|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/09|2023/12|0|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/09|2023/12|0|8|413|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/09|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/09|2023/12|0|2|29|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/09|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/09|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/09|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/09|2023/12|0|2|122|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/10|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/10|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/10|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/10|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/10|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/10|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/10|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/10|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/10|2023/12|0|3|354|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/10|2023/12|0|10|326|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/10|2023/12|0|4|254|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/10|2023/12|0|8|286|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/10|2023/12|0|3|71|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/10|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/10|2023/12|0|4|300|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/10|2023/12|0|13|258|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/10|2023/12|0|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/10|2023/12|0|7|266|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/10|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/10|2023/12|0|1|18|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/10|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/10|2023/12|0|2|55|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/10|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/10|2023/12|0|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/10|2023/12|0|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/10|2023/12|0|5|103|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/10|2023/12|0|5|359|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/10|2023/12|0|14|391|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/10|2023/12|0|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/10|2023/12|0|8|413|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/10|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/10|2023/12|0|2|29|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/10|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/10|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/10|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/10|2023/12|0|2|122|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/11|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/11|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/11|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/11|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/11|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/11|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/11|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/11|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/11|2023/12|1|4|355|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/11|2023/12|1|11|327|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/11|2023/12|2|6|256|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/11|2023/12|1|9|287|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/11|2023/12|1|4|72|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/11|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/11|2023/12|1|5|301|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/11|2023/12|2|15|260|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/11|2023/12|0|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/11|2023/12|1|8|267|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/11|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/11|2023/12|0|1|18|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/11|2023/12|0|0|60|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/11|2023/12|0|2|55|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/11|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/11|2023/12|0|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/11|2023/12|0|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/11|2023/12|2|7|105|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/11|2023/12|2|7|361|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/11|2023/12|2|16|393|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/11|2023/12|0|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/11|2023/12|3|11|416|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/11|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/11|2023/12|0|2|29|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/11|2023/12|0|0|99|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/11|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/11|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/11|2023/12|0|2|122|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/12|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/12|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/12|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/12|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/12|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/12|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/12|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/12|2023/12|0|0|98|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/12|2023/12|0|4|355|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/12|2023/12|1|12|328|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/12|2023/12|0|6|256|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/12|2023/12|0|9|287|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/12|2023/12|0|4|72|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/12|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/12|2023/12|2|7|303|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/12|2023/12|3|18|263|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/12|2023/12|0|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/12|2023/12|1|9|268|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/12|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/12|2023/12|0|1|18|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/12|2023/12|1|1|61|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/12|2023/12|1|3|56|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/12|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/12|2023/12|0|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/12|2023/12|0|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/12|2023/12|3|10|108|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/12|2023/12|3|10|364|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/12|2023/12|1|17|394|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/12|2023/12|0|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/12|2023/12|2|13|418|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/12|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/12|2023/12|2|4|31|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/12|2023/12|1|1|100|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/12|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/12|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/12|2023/12|1|3|123|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/13|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/13|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/13|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/13|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/13|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/13|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/13|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/13|2023/12|1|1|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/13|2023/12|2|6|357|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/13|2023/12|0|12|328|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/13|2023/12|0|6|256|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/13|2023/12|1|10|288|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/13|2023/12|0|4|72|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/13|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/13|2023/12|2|9|305|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/13|2023/12|1|19|264|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/13|2023/12|0|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/13|2023/12|1|10|269|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/13|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/13|2023/12|0|1|18|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/13|2023/12|1|2|62|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/13|2023/12|1|4|57|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/13|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/13|2023/12|0|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/13|2023/12|0|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/13|2023/12|4|14|112|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/13|2023/12|1|11|365|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/13|2023/12|1|18|395|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/13|2023/12|0|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/13|2023/12|2|15|420|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/13|2023/12|0|0|26|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/13|2023/12|1|5|32|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/13|2023/12|0|1|100|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/13|2023/12|0|0|54|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/13|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/13|2023/12|1|4|124|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/14|2023/12|0|0|2|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/14|2023/12|0|0|0|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/14|2023/12|0|0|11|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/14|2023/12|0|0|0|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Retail|2023/12/14|2023/12|0|0|5|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Central|Wholesale|2023/12/14|2023/12|0|0|0|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/14|2023/12|0|0|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/14|2023/12|0|1|99|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/14|2023/12|1|7|358|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/14|2023/12|3|15|331|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Retail|2023/12/14|2023/12|0|6|256|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|New South Wales|Wholesale|2023/12/14|2023/12|1|11|289|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/14|2023/12|0|4|72|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/14|2023/12|0|2|68|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/14|2023/12|4|13|309|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/14|2023/12|1|20|265|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Retail|2023/12/14|2023/12|0|4|239|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Queensland|Wholesale|2023/12/14|2023/12|3|13|272|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/14|2023/12|0|0|17|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/14|2023/12|1|2|19|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/14|2023/12|0|2|62|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/14|2023/12|0|4|57|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Retail|2023/12/14|2023/12|0|0|64|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|South Australia|Wholesale|2023/12/14|2023/12|0|1|67|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/14|2023/12|0|1|100|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/14|2023/12|1|15|113|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/14|2023/12|1|12|366|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/14|2023/12|1|19|396|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Retail|2023/12/14|2023/12|0|4|376|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Victoria|Wholesale|2023/12/14|2023/12|2|17|422|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/14|2023/12|1|1|27|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/14|2023/12|0|5|32|||Corvette|Holden||Holden Pass.||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/14|2023/12|0|1|100|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/14|2023/12|2|2|56|||Silverado 1500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Retail|2023/12/14|2023/12|0|2|116|||Silverado 2500|Holden||Passenger||||||||||||||||||
+Australia|Holden|Western Australia|Wholesale|2023/12/14|2023/12|2|6|126|||Silverado 2500|Holden||Passenger||||||||||||||||||
